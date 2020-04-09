@@ -1,4 +1,5 @@
-[演示站点](lxxs.xyz/app/wsy)
+[演示站点](https://lxxs.xyz/app/wsy)
+[博客地址](https://lxxs.xyz)
 
 # 用处
 
